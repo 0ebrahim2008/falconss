@@ -1,0 +1,16 @@
+{
+  "name": "rules-bot",
+  "version": "1.0.0",
+  "description": "bot that send rules as embed with select menu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.0.0",
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
